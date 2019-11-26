@@ -1,0 +1,32 @@
+1a 16
+1b 10
+1c 11
+1d 8
+1e 4
+1f 3
+1g 0.95
+1h 29
+1i 2.88
+1j 0
+
+2a false
+2b true
+2c true
+2d true 
+2e true
+2f false
+2g false
+2h true
+2i true
+2j false
+
+3a byte
+3b double
+3c long
+3d integer
+3e byte
+3f short? (never played)
+3g byte
+3h short
+3i byte
+3j integer
