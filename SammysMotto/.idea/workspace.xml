@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="213a213f-7767-4dff-9288-3130428aeb06" name="Default Changelist" comment="" />
+    <list default="true" id="213a213f-7767-4dff-9288-3130428aeb06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Chapter3FirstExample/Chapter3FirstExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter3FirstExample/out/production/Chapter3FirstExample/KDRCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter3FirstExample/src/KDRCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter3FirstExample/src/KDRSplashDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecimalFormatExamples/DecimalFormatExamples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecimalFormatExamples/src/DecimalFormatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUICalcExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUICalcExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUICalcExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUICalcExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUICalcExample/GUICalcExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUICalcExample/src/GUICalcExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PassAndReturnMethods/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PassAndReturnMethods/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PassAndReturnMethods/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PassAndReturnMethods/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PassAndReturnMethods/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PassAndReturnMethods/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PassAndReturnMethods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PassAndReturnMethods/PassAndReturnMethods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resturant Calculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resturant Calculator/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resturant Calculator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resturant Calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resturant Calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resturant Calculator/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resturant Calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resturant Calculator/Resturant Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sammy's Rental Prices/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sammy's Rental Prices/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sammy's Rental Prices/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sammy's Rental Prices/Sammy's Rental Prices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sammy's Rental Prices/out/production/Sammy's Rental Prices/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sammy's Rental Prices/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysRentalPriceWIthMethods/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysRentalPriceWIthMethods/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysRentalPriceWIthMethods/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysRentalPriceWIthMethods/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysRentalPriceWIthMethods/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysRentalPriceWIthMethods/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysRentalPriceWIthMethods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysRentalPriceWIthMethods/SammysRentalPriceWIthMethods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysRentalPriceWIthMethods/src/SammysMotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysRentalPriceWIthMethods/src/com/company/SammysMotto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter2Variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter2Variables/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Eggs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Eggs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Eggs/out/production/Eggs/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Eggs/out/production/Eggs/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Eggs/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Eggs/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +66,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Ttj5MtjFnxZA2KFsKsizwTqwM2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -71,10 +126,22 @@
       <updated>1574286101428</updated>
       <workItem from="1574286106457" duration="1358000" />
       <workItem from="1574362982192" duration="248000" />
+      <workItem from="1575491542682" duration="830000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

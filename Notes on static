@@ -1,0 +1,30 @@
+Methods are 2 types intance and non-instance
+
+instance do not have static modifier
+	object.method_name
+
+non-instance do have static modifier
+	Class.method_name
+	
+a client is a class that uses another class's method
+
+
+a method can only return a sing value
+
+void if not returing. data type if you are returing a value
+
+public static double sum(double num1, double num2){
+	return num1 + num2
+}
+
+calling
+ctotal = sum(3.5, 2.6)
+
+page 168-169 Exersize 2A only
+ use scanner class
+1. display a splash screen (reuse the Sammy's Motto 2)
+2. Call input (propt and return the rental time minutes)
+3. Call process
+	(calculate the hours, extra minutes and price)
+	call output passing the hours extra minutes and price
+	output will display details.
