@@ -2,15 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5f6ca6e-2378-48da-8e47-3f9695f66d4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../GUICalcExample/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GUICalcExample/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GUICalcExample/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GUICalcExample/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GUICalcExample/GUICalcExample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GUICalcExample/src/GUICalcExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter2Variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter2Variables/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysProjectWithObjects/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysProjectWithObjects/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysProjectWithObjects/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysProjectWithObjects/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysProjectWithObjects/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysProjectWithObjects/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysProjectWithObjects/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysProjectWithObjects/SammysProjectWithObjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysProjectWithObjects/src/SammysNoObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysRentalWithObjects2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysRentalWithObjects2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysRentalWithObjects2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysRentalWithObjects2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysRentalWithObjects2/SammysRentalWithObjects2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysRentalWithObjects2/src/Rental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SammysRentalWithObjects2/src/SammysProgram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SammysProjectWithObjects" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -71,6 +79,10 @@
       <workItem from="1574713827965" duration="776000" />
       <workItem from="1574795096341" duration="240000" />
       <workItem from="1574807576237" duration="609000" />
+      <workItem from="1576080118934" duration="216000" />
+      <workItem from="1576090851718" duration="22000" />
+      <workItem from="1576175148416" duration="16000" />
+      <workItem from="1576179815071" duration="19000" />
     </task>
     <servers />
   </component>
