@@ -1,0 +1,6 @@
+".*[0-9].*"  anydigit anywhere in the string
+".*[0-9]"	a digit at the end of the string
+".*[A-Z].*" uppercase
+".*[a-z}.*" lowercase
+
+
